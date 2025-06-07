@@ -1,6 +1,10 @@
 :godmode:
 > [!IMPORTANT] 
 > My Name is Napatee Burana EIEIEIEIEIEIEIEI 🎈
+ <h1>🚀 Beyond the Horizon </h1>
+<div style="display: flex; flex-direction: rows;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunokuzu-lnwza-007&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact" />
+</div>
 <!--
 **sunokuzu-lnwza-007/sunokuzu-lnwza-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
