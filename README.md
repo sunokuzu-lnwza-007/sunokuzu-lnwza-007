@@ -1,4 +1,4 @@
- <h1>🚀 Beyond the Horizon </h1>
+ <h1>🚀 Beyond the Horizon. </h1>
 
 :godmode:
 > [!IMPORTANT] 
